@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="THATCH">#A67F78</color>
+    <color name="ELEPHANT">#8F8681</color>
+    <color name="MUSHROOM">#E1DCD9</color>
+    <color name="GUNMETAL">#32435F</color>
+    <color name="BONE">#ECE4E2</color>
+    <color name="BABY_PINK">#FCD3D1</color>
+    <color name="BUBBLEGUM">#FCDFF3</color>
+    <color name="TICKLE_ME">#FE929F</color>
+</resources>

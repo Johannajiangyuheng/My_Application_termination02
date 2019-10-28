@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="true_button">YES</string>
+    <string name="false_button">NO</string>
+    <string name="cheat_button">NOT SURE</string>
+    <string name="next_button">NEXT</string>
+    <string name="question_text">splendor 光彩，壮丽</string>
+    <string name="question_text1">smack 碰撞</string>
+    <string name="question_text2">insensitive 无效的</string>
+    <string name="question_text3">mortal 永远的</string>
+    <string name="question_text4">indecent 下流的</string>
+    <string name="warning_text">你确定要查看答案吗</string>
+    <string name="show_answer_button">查看答案</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+    <string name="menu_settings">Settings</string>
+    <string name="correct_toast">回答正确</string>
+    <string name="incorrect_toast">回答错误</string>
+    <string name="reminder_toast">为什么不好好输密码</string>
+    <string name="reminder_toast2">不输入瞎点什么</string>
+
+
+</resources>
